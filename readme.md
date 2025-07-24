@@ -75,6 +75,7 @@ Awesome Pixel Art is a repository specifically dedicated to creating and learnin
 - [Thomas Feichtmeir](http://cyangmou.deviantart.com/) - Australian, dark and mature: fan of knights, dinosaurs, pirates, epic beasts, anatomy and history as well as everything twisted and weird.
 - [Toyoi Yuuta](http://1041uuu.tumblr.com/) - Australian, capturing small animated scenes of everyday life in unsaturated colors.
 - [Slynyrd](https://www.patreon.com/slynyrd) - American, game designer with tons of material, game specific knowledge and mini-tutorials.
+- [Jude Buffum](https://www.the-pixel-artist.com) - American, illustrator known since 2002 as the go-to expert for pixel art illustration and 8-bit typography, trusted by hundreds of brands like Disney, Hasbro, and Sony.
 
 ### Hubs
 - [Reddit /r/PixelArt](https://www.reddit.com/r/PixelArt/)
